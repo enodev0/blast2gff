@@ -1,6 +1,6 @@
 #blast2gff
 
-Convert blastn alignment files to GFFv3 annotation format, for example after aligning de-novo predicted mRNA transcripts to a reference genome.
+Convert blastn alignment files to GFFv3 annotation format, for example, after aligning de-novo predicted mRNA transcripts to a reference genome.
 In case of strand specific alignment, it can also merge the corresponding GFFs.
 
 ## Usage
