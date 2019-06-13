@@ -5,7 +5,7 @@ In case of strand specific alignment, it can also merge the corresponding GFFs.
 
 ### Usage
 ```bash
-~$ blast2gff convert watson alignment_fowward_strand.aln > watson.gff
+~$ blast2gff convert watson alignment_foward_strand.aln > watson.gff
 ```
 or perhaps ...
 ```bash
