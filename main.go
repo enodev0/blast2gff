@@ -63,7 +63,7 @@ func convert(strand, alnfile string) {
 			if b5_count == 0 {
 				b5_coord, _ = strconv.Atoi(split_line[2])
 			}
-			b5_co//this updates everytimeunt += 1
+			b5_count += 1//this updates everytime
 			// this updates everytime, we just need the last
 			// value
 			b3_coord, _ = strconv.Atoi(split_line[6])
